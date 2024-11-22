@@ -34,9 +34,5 @@ FashionAI is an AI-powered platform designed for fashion stores, offering advanc
 
 ## **Demo Video**
 [Watch Demo on Google Drive](https://drive.google.com/file/d/1g7Xi8-rfZL5or8CR8lp8qOKf6tTartxq/view?usp=sharing)  
-_Or view it directly below:_
-
-<video controls src="https://drive.google.com/uc?id=1g7Xi8-rfZL5or8CR8lp8qOKf6tTartxq" width="100%"></video>
-
 
 
