@@ -22,7 +22,8 @@ FashionAI is an AI-powered platform designed for fashion stores, offering advanc
 ![Platform Homepage](HomePage.png)  
 _A screenshot of the platform's homepage._
 
-![Search by Image](path/to/image2.png)  
+![Search by Image](media/searchByImage.png) 
+![Search by Image](media/searchByImage2.png)  
 _An example of the search-by-image feature._
 
 ![Search by Description](SearchByDescription.png)  
