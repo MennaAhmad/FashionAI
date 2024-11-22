@@ -29,10 +29,10 @@ _An example of the search-by-image feature._
 _An example of the search-by-description feature._
 
 ### **Video Demo**
-[Watch Demo](Demo.mp4)  
+[Watch Demo](media/demo-video.mp4)  
 _Or view it directly below:_
 
-<video controls src="Demo.mp4" width="100%"></video>
+<video controls src="media/demo-video.mp4" width="100%"></video>
 
 ---
 
