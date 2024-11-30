@@ -8,7 +8,7 @@ FashionAI is an AI-powered platform designed for fashion stores, offering advanc
 ## **Key Features**
 - **Search by Image**:  
   Detects items in uploaded images using **YOLOv11** and finds visually similar items using **EfficientNet** embeddings.  
-- **Search by Description**:  
+- **Search by Description-LVM**:  
   Enables users to search for fashion items using natural language queries powered by **CLIP** and **ViT-B/32**.  
 - **Personalized Home Page**:  
   Designed a dynamic, personalized home page tailored to individual user preferences, enhancing customer engagement and satisfaction  
